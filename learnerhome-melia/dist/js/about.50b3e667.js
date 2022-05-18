@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkacc_learnerhome_melia"]=self["webpackChunkacc_learnerhome_melia"]||[]).push([[443],{6120:function(e,n,r){r.r(n),r.d(n,{default:function(){return l}});var a=r(3396);function c(e,n){return(0,a.wg)(),(0,a.iD)("section",null," Other View ")}var t=r(89);const u={},i=(0,t.Z)(u,[["render",c]]);var l=i}}]);
+//# sourceMappingURL=about.50b3e667.js.map
